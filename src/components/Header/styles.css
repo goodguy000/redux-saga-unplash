@@ -10,3 +10,13 @@ header {
     background: #fff;
     z-index: 10;
 }
+.logo {
+    float: left;
+    cursor: pointer;
+}
+.github {
+    float: right;
+}
+.github a {
+    text-decoration: none;
+}
